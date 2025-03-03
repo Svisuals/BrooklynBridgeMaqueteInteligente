@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"type": "panorama",
+	"external": {
+		"js": [],
+		"css": [
+			"https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,500&family=Orbitron:wght@600&display=swapswap"
+		]
+	},
+	"skin": {
+		"js": "skin.js"
+	},
+	"vrskin": {},
+	"player": {
+		"js": "pano2vr_player.js"
+	},
+	"creationdate": "2025-02-20T03:01:54.848Z",
+	"configuration": "SVisuals.xml",
+	"preview": {
+		"img": "preview.jpg",
+		"width": 640,
+		"height": 480
+	}
+}

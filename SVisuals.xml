@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="7.1.7" apprev="20981" start="node21" hassounds="0">
+  <panorama id="node21" hideabout="1">
+    <input height="1520" levelbiashidpi="1.000" overlap="1" width="1520" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelingroll="0" leveltilesize="510">
+      <level height="1520" preload="0" width="1520" predecode="0"/>
+      <level height="760" preload="0" width="760" predecode="0"/>
+      <level height="380" preload="1" width="380" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0.544818" fov="100" tilt="-2.84934" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="120" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" datetime="16/11/2023 17:19" nodeid="node21" author="" description="" source="" info="" longitude="-46.691111" copyright="" tags="Editadas" heading="0" title="A" customnodeid="" latitude="-23.632278" altitude="736.00"/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label height="20" border="1" borderradius="1" width="180" background="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1" bordercolor="0x000000" textalpha="1" enabled="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot description="" distance="5.60284" tilt="4.5" title="B" pan="-49.6" target="" id="Point01" url="{node22}" skinid="ht_node"/>
+      <hotspot description="" distance="6.11572" tilt="4.01" title="C" pan="-310.64" target="" id="Point02" url="{node23}" skinid="ht_node"/>
+      <hotspot pan="-9.16" target="" id="Lobby" description="" url="images/08 Interna Lobby - HR-2.jpg" tilt="-40.44" title="Lobby" skinid="ht_image"/>
+      <hotspot pan="-352.23" target="" id="Portaria" description="" url="images/02 Externa Portaria Residencia - HR-2.jpg" tilt="-40.36" title="Portaria" skinid="ht_image"/>
+      <hotspot pan="-33.02" target="" id="Fitness" description="" url="images/11 Interna Fitness - HR-2.jpg" tilt="-20.01" title="Fitness" skinid="ht_image"/>
+      <hotspot pan="-2.19" target="" id="Jogos Adulto" description="" url="images/09 Interna Jogos Adulto - HR-2.jpg" tilt="-23.81" title="Jogos Adulto" skinid="ht_image"/>
+      <polyhotspot description="" title="" target="_blank" backgroundalpha="0.196078" id="FINAL 1B" backgroundcolor="0x00007f" borderalpha="1" url="" bordercolor="0x00007f">
+        <polystring>-324.83/-8.32|-316.72/-7.62|-317.43/21.61|-317.69/44.55|-317.51/49.25|-325.52/51.96</polystring>
+      </polyhotspot>
+      <polyhotspot description="" title="" target="_blank" backgroundalpha="0.196078" id="FINAL 1A" backgroundcolor="0x00007f" borderalpha="1" url="" bordercolor="0x00007f">
+        <polystring>-38.57/-7.5|-29.93/-8.55|-28.97/52.65|-37.46/48.96</polystring>
+      </polyhotspot>
+      <polyhotspot description="" title="" target="_blank" backgroundalpha="0.196078" id="FINAL 3B" backgroundcolor="0xff5500" borderalpha="1" url="" bordercolor="0xff5500">
+        <polystring>-327.39/-8.52|-331.58/-9.09|-332.88/-8.45|-336.19/-8.94|-343.99/-9.46|-344.33/53.58|-338.55/52.59|-337.02/53.3|-333.96/51.92|-332.15/53.81|-325.61/52.09|-325.28/-8.1</polystring>
+      </polyhotspot>
+      <polyhotspot description="" title="" target="_blank" backgroundalpha="0.196078" id="FINAL 5B" backgroundcolor="0x5500ff" borderalpha="1" url="" bordercolor="0x5500ff">
+        <polystring>-344.72/-9.93|-357.56/-10.3|-358.12/-8.81|-2.3/-8.84|-2.12/55.86|-358.45/56.39|-357.11/57.3|-344.91/56.49|-344.25/10.31|-344.26/-0.71</polystring>
+      </polyhotspot>
+      <polyhotspot description="" title="" target="_blank" backgroundalpha="0.196078" id="FINAL 5A" backgroundcolor="0x00aaff" borderalpha="1" url="" bordercolor="0x00aaff">
+        <polystring>-2.23/-8.79|-7.28/-8.55|-7.26/-9.98|-7.93/-10.44|-20.27/-9.81|-18.92/55.26|-8.38/56.68|-7.06/55.61|-2.52/56.41</polystring>
+      </polyhotspot>
+      <polyhotspot description="" title="" target="_blank" backgroundalpha="0.196078" id="FINAL 3A" backgroundcolor="0xde9000" borderalpha="1" url="" bordercolor="0xde9000">
+        <polystring>-20.38/-9.04|-21.79/-8.94|-23/-9.27|-29.82/-8.66|-28.39/52.17|-22.56/53.32|-21.77/52.1|-19.18/53.67</polystring>
+      </polyhotspot>
+      <polyhotspot description="" title="" target="_blank" backgroundalpha="0.705882" id="FINAL 3A - VENDIDO" backgroundcolor="0xff0000" borderalpha="1" url="" bordercolor="0xffffff">
+        <polystring>-29.78/-8.47|-23.09/-9.31|-21.76/-8.78|-20.19/-8.99|-19.49/53.92|-20.93/52.66|-22.34/53.56|-28.8/52.12</polystring>
+      </polyhotspot>
+      <polyhotspot description="" title="" target="_blank" backgroundalpha="0.705882" id="FINAL 3B VENDIDO" backgroundcolor="0xff0000" borderalpha="1" url="" bordercolor="0xffffff">
+        <polystring>-325.1/12.76|-332.1/13.45|-333.14/12.96|-336.26/13.2|-337.5/13.21|-344.4/13.86|-344.44/21.64|-337.82/21.03|-336.53/21|-333.42/20.65|-331.96/21.4|-325.19/20.34|-325.32/20.38</polystring>
+      </polyhotspot>
+      <polyhotspot description="" title="" target="_blank" backgroundalpha="0.705882" id="FINAL 3B VENDIDO-2" backgroundcolor="0xff0000" borderalpha="1" url="" bordercolor="0xffffff">
+        <polystring>-325.53/36.33|-332.24/37.99|-333.71/36.75|-336.5/37.24|-344.3/38.06|-344.25/40.36|-337.1/39.62|-334.05/39.09|-332.47/40.58|-325.37/38.88</polystring>
+      </polyhotspot>
+      <polyhotspot description="" title="" target="_blank" backgroundalpha="0.705882" id="FINAL 1B - VENDIDO" backgroundcolor="0xff0000" borderalpha="1" url="" bordercolor="0xffffff">
+        <polystring>-317.76/44.45|-325.58/47.23|-325.31/40.88|-317.89/38.33</polystring>
+      </polyhotspot>
+      <polyhotspot description="" title="" target="_blank" backgroundalpha="0.705882" id="FINAL 5B - VENDIDO" backgroundcolor="0xff0000" borderalpha="1" url="" bordercolor="0xffffff">
+        <polystring>-344.12/0.37|-357.27/0.14|-357.71/0.68|-2.02/0.6|-2.17/10.22|-357.76/10.2|-357.19/9.85|-344.76/9.71|-344.44/10.22</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomafterinfov="90" zoomafteroutfov="20" delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" enabled="1" type="crossdissolve"/>
+    <autorotate speed="0.200" noderandom="1" horizonfromdefview="0" returntohorizon="0.000" nodefilter="" delay="8.00" startloaded="0" enabled="1" useanimation="0" nodedelay="0.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control rubberband="0" sensitivity="8" contextfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedmouse="0" zoomcentercursor="1" contextprojections="0" contextvr="1" lockedkeyboardzoom="0" invertwheel="0" hideabout="1" lockedwheel="0" dblclickfullscreen="1" simulatemass="1" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node22" hideabout="1">
+    <input height="1520" levelbiashidpi="1.000" overlap="1" width="1520" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelingroll="0" leveltilesize="510">
+      <level height="1520" preload="0" width="1520" predecode="0"/>
+      <level height="760" preload="0" width="760" predecode="0"/>
+      <level height="380" preload="1" width="380" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" fov="100" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="120" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" datetime="16/11/2023 17:20" nodeid="node22" author="" description="" source="" info="" longitude="-46.691056" copyright="" tags="Editadas" heading="0" title="B" customnodeid="" latitude="-23.632278" altitude="741.00"/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label height="20" border="1" borderradius="1" width="180" background="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1" bordercolor="0x000000" textalpha="1" enabled="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot description="" distance="5.60284" tilt="5.21" title="A" pan="-327.95" target="" id="Point01" url="{node21}" skinid="ht_node"/>
+      <hotspot description="" distance="2.85235" tilt="6.29" title="E" pan="-21.13" target="" id="Point02" url="{node24}" skinid="ht_node"/>
+      <hotspot pan="-342.68" target="" id="Fachada" description="" url="images/01 Externa Fachada - HR-2.jpg" tilt="30.77" title="Fachada" skinid="ht_image"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomafterinfov="90" zoomafteroutfov="20" delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" enabled="1" type="crossdissolve"/>
+    <autorotate speed="0.200" noderandom="1" horizonfromdefview="0" returntohorizon="0.000" nodefilter="" delay="8.00" startloaded="0" enabled="1" useanimation="0" nodedelay="0.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control rubberband="0" sensitivity="8" contextfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedmouse="0" zoomcentercursor="1" contextprojections="0" contextvr="1" lockedkeyboardzoom="0" invertwheel="0" hideabout="1" lockedwheel="0" dblclickfullscreen="1" simulatemass="1" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node23" hideabout="1">
+    <input height="1520" levelbiashidpi="1.000" overlap="1" width="1520" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelingroll="0" leveltilesize="510">
+      <level height="1520" preload="0" width="1520" predecode="0"/>
+      <level height="760" preload="0" width="760" predecode="0"/>
+      <level height="380" preload="1" width="380" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" fov="100" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="120" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" datetime="16/11/2023 17:23" nodeid="node23" author="" description="" source="" info="" longitude="-46.691111" copyright="" tags="Editadas" heading="0" title="C" customnodeid="" latitude="-23.632333" altitude="744.00"/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label height="20" border="1" borderradius="1" width="180" background="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1" bordercolor="0x000000" textalpha="1" enabled="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot description="" distance="6.11572" tilt="10.01" title="A" pan="-31.04" target="" id="Point01" url="{node21}" skinid="ht_node"/>
+      <hotspot description="" distance="10.4351" tilt="11.93" title="E" pan="-344.97" target="" id="Point02" url="{node24}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomafterinfov="90" zoomafteroutfov="20" delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" enabled="1" type="crossdissolve"/>
+    <autorotate speed="0.200" noderandom="1" horizonfromdefview="0" returntohorizon="0.000" nodefilter="" delay="8.00" startloaded="0" enabled="1" useanimation="0" nodedelay="0.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control rubberband="0" sensitivity="8" contextfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedmouse="0" zoomcentercursor="1" contextprojections="0" contextvr="1" lockedkeyboardzoom="0" invertwheel="0" hideabout="1" lockedwheel="0" dblclickfullscreen="1" simulatemass="1" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node24" hideabout="1">
+    <input height="1520" levelbiashidpi="1.000" overlap="1" width="1520" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" levelingroll="0" leveltilesize="510">
+      <level height="1520" preload="0" width="1520" predecode="0"/>
+      <level height="760" preload="0" width="760" predecode="0"/>
+      <level height="380" preload="1" width="380" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-4.02802" fov="100" tilt="0.727111" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="120" scaletofit="1" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" datetime="16/11/2023 17:25" nodeid="node24" author="" description="" source="" info="" longitude="-46.691028" copyright="" tags="Editadas" heading="0" title="E" customnodeid="" latitude="-23.632278" altitude="747.00"/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label height="20" border="1" borderradius="1" width="180" background="1" wordwrap="1" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1" bordercolor="0x000000" textalpha="1" enabled="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot description="" distance="10.4351" tilt="5.51" title="C" pan="-56.9" target="" id="Point01" url="{node23}" skinid="ht_node"/>
+      <hotspot description="" distance="2.85235" tilt="6.83" title="B" pan="-315.93" target="" id="Point02" url="{node22}" skinid="ht_node"/>
+      <hotspot pan="-26.24" target="" id="Playground" description="" url="images/05 Externa Playground - HR-2.jpg" tilt="-34.06" title="Playground" skinid="ht_image"/>
+      <hotspot pan="-46.79" target="" id="Pool House" description="" url="images/04 Externa Pool House - HR-2.jpg" tilt="-30.33" title="Pool House" skinid="ht_image"/>
+      <hotspot pan="-312.84" target="" id="Piscina" description="" url="images/03 Externa Piscina - HR-2.jpg" tilt="-24.27" title="Piscina" skinid="ht_image"/>
+      <hotspot pan="-47.35" target="" id="Churrasqueira" description="" url="images/06 Externa Churrasqueira - HR-2.jpg" tilt="-17.94" title="Churrasqueira" skinid="ht_image"/>
+      <hotspot pan="-25.04" target="" id="Gourmet" description="" url="images/13 Interna Gourmet - HR-2.jpg" tilt="-22.88" title="Gourmet" skinid="ht_image"/>
+      <hotspot pan="-38.07" target="" id="Festas" description="" url="images/14 Interna Festas - HR-2.jpg" tilt="-19.93" title="Festas" skinid="ht_image"/>
+      <hotspot pan="-4.03" target="" id="Brinquedoteca" description="" url="images/12 Interna Brinquedoteca - HR-2.jpg" tilt="-24.41" title="Brinquedoteca" skinid="ht_image"/>
+      <hotspot pan="-59.86" target="" id="Family House" description="" url="images/15 Interna Family House - HR-2.jpg" tilt="-22.29" title="Family House" skinid="ht_image"/>
+      <polyhotspot description="" title="" target="_blank" backgroundalpha="0.196078" id="FINAL 2B" backgroundcolor="0x00007f" borderalpha="1" url="" bordercolor="0x00007f">
+        <polystring>-48.81/-16.27|-40.9/-18.52|-41.02/48.49|-48.52/45.44|-48.4/45.33</polystring>
+      </polyhotspot>
+      <polyhotspot description="" title="" target="_blank" backgroundalpha="0.196078" id="FINAL 2A" backgroundcolor="0x00007f" borderalpha="1" url="" bordercolor="0x00007f">
+        <polystring>-332.87/-20.21|-323.89/-18.43|-322.99/47.3|-331.63/50.46</polystring>
+      </polyhotspot>
+      <polyhotspot description="" title="" target="_blank" backgroundalpha="0.196078" id="FINAL 4B" backgroundcolor="0xff5500" borderalpha="1" url="" bordercolor="0xff5500">
+        <polystring>-40.57/-18.53|-34.72/-19.82|-32.95/-19.03|-29.61/-19.73|-28.51/-19.4|-21.13/-20.29|-20.73/51.8|-27.39/50.51|-28.91/50.95|-31.84/50.24|-34.26/51.17|-40.27/49.32</polystring>
+      </polyhotspot>
+      <polyhotspot description="" title="" target="_blank" backgroundalpha="0.196078" id="FINAL 4A" backgroundcolor="0x005500" borderalpha="1" url="" bordercolor="0x005500">
+        <polystring>-333.59/-18.02|-333.6/-20.22|-340.47/-21.5|-341.76/-20.72|-343.03/-20.85|-343.74/-20.96|-344.49/-20.86|-343.2/51.53|-340.5/51.12|-339.11/52.31|-332.39/50.63</polystring>
+      </polyhotspot>
+      <polyhotspot description="" title="" target="_blank" backgroundalpha="0.196078" id="FINAL 6 A - B" backgroundcolor="0x550000" borderalpha="1" url="" bordercolor="0x550000">
+        <polystring>-21.07/-22.47|-13.06/-23.19|-11.44/-21.93|-353.51/-21.88|-351.99/-22.46|-344.39/-21.68|-342.55/53.75|-348.96/54.32|-350.45/53.16|-354.79/53.34|-5.42/53.59|-7.16/54.03|-10.12/53.89|-12.12/55.06|-20.19/54.35</polystring>
+      </polyhotspot>
+      <polyhotspot description="" title="" target="_blank" backgroundalpha="0.705882" id="FINAL 4A - VENDIDO" backgroundcolor="0xff0000" borderalpha="1" url="" bordercolor="0xffffff">
+        <polystring>-344.08/-21.03|-341.7/-20.9|-340.47/-21.65|-333.53/-20.44|-332.84/51.09|-338.39/52.63|-340.42/51.14|-342.53/51.87</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" softedge="0" zoomout="0" blendcolor="0x000000" zoomafterinfov="90" zoomafteroutfov="20" delay="none" blendtime="1" zoomin="0" zoomoutpause="1" zoomspeed="2" enabled="1" type="crossdissolve"/>
+    <autorotate speed="0.200" noderandom="1" horizonfromdefview="0" returntohorizon="0.000" nodefilter="" delay="8.00" startloaded="0" enabled="1" useanimation="0" nodedelay="0.00"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control rubberband="0" sensitivity="8" contextfullscreen="0" speedwheel="1" lockedkeyboard="0" lockedmouse="0" zoomcentercursor="1" contextprojections="0" contextvr="1" lockedkeyboardzoom="0" invertwheel="0" hideabout="1" lockedwheel="0" dblclickfullscreen="1" simulatemass="1" invertcontrol="1"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" author="" description="" copyright="" tags="" title=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+  <map height="2782" floorplannorth="0" tileformat="png" zoomlevels="1" width="3324" crispedges="0" title="" bgcolor="rgba(255, 255, 255, 0)" transparent="1" index="0" id="FloorPlan01" type="file"/>
+</tour>
